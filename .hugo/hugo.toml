@@ -49,6 +49,9 @@ enableRobotsTXT = true
 
 [markup.goldmark.renderer]
   unsafe= true 
+  [markup.highlight]
+    style = "github"   
+    noClasses = false
 
 [outputFormats]
   [outputFormats.LLMS]
