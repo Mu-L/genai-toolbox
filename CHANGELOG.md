@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.9.0](https://github.com/googleapis/genai-toolbox/compare/v0.8.0...v0.9.0) (2025-07-09)
+
+
+### Features
+
+* Add optional projectID parameter to bigquery tools ([#799](https://github.com/googleapis/genai-toolbox/issues/799)) ([c6ab74c](https://github.com/googleapis/genai-toolbox/commit/c6ab74c5dad53a0e7885a18438ab3be36b9b7cb3))
+* Add queryTimeout support to MySQL source ([#830](https://github.com/googleapis/genai-toolbox/issues/830)) ([391cb5b](https://github.com/googleapis/genai-toolbox/commit/391cb5bfe845e554411240a1d9838df5331b25fa))
+* Dynamic reloading for toolbox config ([#800](https://github.com/googleapis/genai-toolbox/issues/800)) ([4c240ac](https://github.com/googleapis/genai-toolbox/commit/4c240ac3c961cd14738c998ba2d10d5235ef523e))
+
+
+### Bug Fixes
+
+* Fix docs preview deployment pipeline ([#787](https://github.com/googleapis/genai-toolbox/issues/787)) ([0a93b04](https://github.com/googleapis/genai-toolbox/commit/0a93b0482c8d3c64b324e67408d408f5576ecaf3))
+* Nil parameter error when arrays are used ([#801](https://github.com/googleapis/genai-toolbox/issues/801)) ([2bdcc08](https://github.com/googleapis/genai-toolbox/commit/2bdcc0841ab37d18e2f0d6fe63fb6f10da3e302b))
+
 ## [0.8.0](https://github.com/googleapis/genai-toolbox/compare/v0.7.0...v0.8.0) (2025-07-02)
 
 
